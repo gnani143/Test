@@ -1,0 +1,14 @@
+ [
+  {
+  "featureType": "landscape",
+  "stylers": [
+              { "color": "#D1E0E5" }
+              ]
+  },
+  {
+  "featureType": "road.highway",
+  "stylers": [
+              { "color": "#B1C3CC" }
+              ]
+  }
+  ]
